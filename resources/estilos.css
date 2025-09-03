@@ -1,0 +1,9 @@
+.label {
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-padding: 5 15 5 15;
+    -fx-background-color: #e6e6e6;
+}
+
